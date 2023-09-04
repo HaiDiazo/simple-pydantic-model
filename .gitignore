@@ -1,0 +1,6 @@
+.idea
+.vscode
+
+.infisical.json
+**/__pycache__
+lib/poi**

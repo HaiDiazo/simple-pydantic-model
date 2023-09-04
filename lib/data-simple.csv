@@ -1,0 +1,5 @@
+﻿id;name;category;country;country_code;vital_object;sub_category_en;category_en;sub_category;province;city;kecamatan_name;village;geometry;status
+3f81faec-5b51-4943-88b4-0bc3376fd56a;SD Negeri 034779;Pendidikan;Indonesia;id;FALSE;Primary School;Education;Sekolah Dasar;Sumatera Utara;Dairi;Sidakalang;Sidiangkat;98.31460347997385, 2.7203326829262315;UPDATE
+27a6a64c-de27-4817-a28e-72f65597e89b;SMA PLUS MUHAMMADIYAH MERAUKE;Pendidikan;Indonesia;id;FALSE;Secondary School_2nd;Education;Sekolah Menengah Atas;Papua;Merauke;Rimba Jaya;;140.4145816618857, -8.524693250482215;UPDATE
+addfcb33-b437-4cc2-a39c-c2d2d02439e8;ATM Bank Papua;Bank/ATM;Italia;it;FALSE;;Bank/ATM;;Lombardia;;;;;DELETE
+9a610c34-f7f0-49bb-be5e-8217563f429a;Masjid Baitul Iman;Agama;Malaysia;my;FALSE;Mosque;Religion;Mesjid;Pahang;Kuantan;;;;DELETE
